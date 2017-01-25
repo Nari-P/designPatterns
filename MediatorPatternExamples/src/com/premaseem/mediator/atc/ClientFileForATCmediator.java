@@ -36,6 +36,7 @@ public class ClientFileForATCmediator {
 			System.out.println("What do you want to do with the fligh " + inOperationFlight.name);
 			System.out.println(" Press 1 to Grant landing permission ");
 			System.out.println(" Press 2 to Land the Flight ");
+			System.out.println("New line added");
 
 			int type = scan.nextInt();
 			try {
